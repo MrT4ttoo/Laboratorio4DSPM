@@ -58,4 +58,4 @@ Este proyecto es de uso académico y no tiene licencia oficial.
 
 ## 🙋 Autor
 
-Desarrollado por **[Ing. Adolfo]** como parte de prácticas universitarias de desarrollo móvil.  
+Desarrollado por **Ing. Adolfo** como parte de prácticas universitarias de desarrollo móvil.  
