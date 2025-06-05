@@ -4,7 +4,7 @@
 
 ## 🧰 Requisitos
 
-- Android Studio Electric Eel o superior.
+- Android Studio Electric.
 - Dispositivo físico o emulador con Google Play Services.
 - Conexión a internet activa.
 - Permiso de ubicación habilitado.
